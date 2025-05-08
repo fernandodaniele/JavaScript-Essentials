@@ -1,0 +1,1 @@
+You can load a local html file either by typing its local path after file:/// in the address bar, or by simply opening it in your browser using the Open command from the menu.

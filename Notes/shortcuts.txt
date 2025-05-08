@@ -1,0 +1,2 @@
+ctrl + o -> open existing documents in applications
+ctrl + shift + i developer tools
